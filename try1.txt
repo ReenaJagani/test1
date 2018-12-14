@@ -1,0 +1,1 @@
+git diff shows the changes, but not file creations. Because git diff shows difference comapred to committed files
