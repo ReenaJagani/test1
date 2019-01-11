@@ -1,1 +1,20 @@
  gi to dev, make changes, oush it, go back to master, do git diff dev
+
+ when in master,
+ git diff dev
+
+ it will show master minus dev
+
+ green - present in master, but not in dev
+ red - not present in master, but present in master
+
+ in github.com:
+
+ go to settings>network to see all the merge branches etc.
+
+ CREATE PULL REQUESTS:
+
+ go to that branch
+ compare and creaete pull request
+
+
